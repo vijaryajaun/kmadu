@@ -1,5 +1,5 @@
 import os,math
 if __name__=='__main__':
-  z=7/7.;y=math.pow(z,8)
-  v=y/2
+  z=8/9.;y=math.pow(z,7)
+  v=y/1
   print(v)
